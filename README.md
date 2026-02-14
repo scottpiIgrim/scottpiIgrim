@@ -11,12 +11,10 @@ https://scottpilgrim.atabook.org/
 <p align="center">
 
 <p align="center">
-^ me & mike ^
+ me & mike 
 <p align="center">
 
-<p align="center">
-<img width="460" height="460" src="https://files.catbox.moe/esdd8t.webp"> 
-<p align="center">
+
 
 <p align="center">
  
@@ -25,5 +23,5 @@ https://scottpilgrim.atabook.org/
 
  
 <p align="center">
-‎ ‎         ^ me and piggy gc ^
+‎ ‎          me and piggy gc 
 
